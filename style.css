@@ -1,0 +1,36 @@
+body{
+    /* background-image: linear-gradient(to right, #868f96 0%, #596164 100%); */
+
+    background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
+    background-blend-mode: screen;
+    
+  }
+.col-md-5{
+    margin-top: 150px !important;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-weight: bolder !important;
+    margin: 20px !important;
+}
+input{
+    display: inline !important;
+    border: 3px solid black !important;
+    width: 85% !important;
+}
+button{
+    margin-left: 10px !important;
+}
+li{
+    list-style: none;
+    font-size: 20px !important;
+    text-align: center !important;
+    width: 70% !important ;
+    display: inline;
+    margin: 10px;
+}
+i{
+    color: red;
+    margin: 10px;
+}
